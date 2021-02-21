@@ -314,5 +314,13 @@
     "great repository names are short and memorable. need inspiration? how about": "好的仓库名称应该简单且容易记忆。需要灵感吗？这个怎么样：",
     "anyone on the internet can see this repository. you choose who can commit.": "任何人都可以看到这个仓库，您可以选择谁能提交。",
     "you choose who can see and commit to this repository.": "您可以选择谁可以看和提交到该仓库。"
+    	"Types":"分类"
+	"Apps":"手机应用"
+	"Actions":"操作"
+	"Verification":"验证"
+	"Verified":"已认证"
+	"Unverified":"未认证"
+	"Verified Creator":"已认证的开发人员"
+	"Your items":"你的物品"
   }
 }
